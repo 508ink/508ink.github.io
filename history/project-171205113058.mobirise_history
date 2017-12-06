@@ -1,0 +1,384 @@
+{
+  "settings": {
+    "name": "508 INK",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#f3c649",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Indie Flower",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": []
+    },
+    "favicon": "",
+    "noImageResize": "true",
+    "versionFirst": "4.3.0",
+    "uniqCompNum": 12,
+    "versionPublish": "4.3.5",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-109673762-1\"></script>;\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n  gtag('config', 'UA-109673762-1');\r\n</script>",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "508 INK TATOO SHOP",
+        "meta_descr": "508 INK TATTOO SHOP\n1282 Pleasant Street Worcester, MA\n",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f3c649!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-2\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery3-4\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-b\">SOCIAL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tattoo-gun-white-128x128.png",
+              "height": 128,
+              "alt": "508Ink",
+              "link": "https://mobirise.com",
+              "title": "508 Ink Tattoo"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://508ink.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">508 INK TATTOO SHOP</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": "40",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-248387-2000x1250.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/logo-stroke-1400x1535.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "linkInNewWindow": false,
+              "name": "pencil",
+              "family": "et-line",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "1282 Pleasant St.<br>Worcester, MA",
+          "text": "(508) 688-2462",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SHOW ME MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-2",
+          "_styles": {
+            ".mbr-section-text": {
+              "font-size": "48px",
+              "text-align": "right"
+            },
+            ".mbr-section-title": {
+              "text-align": "right",
+              "font-size": "48px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tattoo-1-621x833.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattoo-1-621x833-621x833.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tattoo-2-545x694.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattoo-2-545x694-545x694.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tattoo-4-788x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattoo-4-788x960-788x960.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tattoo-3-496x741.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattoo-3-496x741-496x741.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tattoo-5-528x782.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattoo-5-528x782-528x782.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tattoo-6-960x560.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattoo-6-960x560-800x466.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tattoo-8-640x710-640x710.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattoo-8-640x710-640x710-640x710.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tattoo-7-720x960-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattoo-7-720x960-720x960-720x960.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-4"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-194074-2000x1387.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.7"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/508ink\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/508_ink_tattoos/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-b"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "1282 Pleasant St. Worcester, MA",
+              "placeId": "ChIJlTD8hzcB5IkRK_GcP_y6ORM",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-6"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "©&nbsp;2017 • 508INK TATTOO SHOP",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-8",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "16px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
